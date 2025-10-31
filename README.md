@@ -64,11 +64,3 @@ Este projeto é de uso **pessoal e demonstrativo**.
 Todos os direitos reservados © 2025 **Anny Beatriz**.  
 
 ---
-
-## 👩‍💻 Autora  
-**Anny Beatriz**  
-Desenvolvedora Full Stack e fundadora da comunidade **Future Coders**.  
-📧 *adicionar e-mail profissional aqui*  
-🌐 *adicionar link da comunidade Future Coders aqui*  
-
----
